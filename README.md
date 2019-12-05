@@ -1,1 +1,1 @@
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+This is my blog [blog](file:///C:/Users/PC/Desktop/diabetes/diabetes.html)
