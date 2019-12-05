@@ -1,6 +1,6 @@
 
 <yarametwally32@gmail.com>  
 <https://www.facebook.com/yara.metwally.146>  
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+*   Diabetes is considered as one of the deadliest and chronic diseases. Our project aims to predict diabetes based on many factors(features), like: age, family history, blood pressure, ... etc. You can check and download our dataset here.
 
 
