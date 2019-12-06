@@ -25,5 +25,5 @@ By looking into our dataset, we found that we have some missing data, so we solv
 mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |  
 
     
-![Image of Yaktocat](https://github.com/yara7/yara.git.io/blob/master/cross.png)
+![cross](https://github.com/yara7/yara.git.io/blob/master/cross.png)
 
