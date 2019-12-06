@@ -2,7 +2,7 @@
 <https://www.facebook.com/yara.metwally.146>    
 **Blog**  
 
-[here]([here](https://www.kaggle.com/edubrq/diabetes). ). 
+[here](). 
 
 **Diabetes prediction**   
 **Introduction**    
