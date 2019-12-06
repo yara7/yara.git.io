@@ -15,12 +15,16 @@ By looking into our dataset, we found that we have some missing data, so we solv
 
  |      | Pregnancies | Glucose | Blood pressure | Skin Thickness | Insuline | BMI |	Diabetes Pedigree Function |	Age   
 |------------ | ------------- | ---------- | --------- | ------------ | --------- | -------- | 
-mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |  
+mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |   
 
     
-![Knn](https://www.researchgate.net/profile/Zainab_Sultani/publication/328146770/figure/fig3/AS:679495715536897@1539015811173/kNN-classification-example.ppm)  
+    
+We used 2 methods: Linear Discriminant Analysis and K Nearest Neighbors, for prediction.
+**Linear Discriminant & Logistic Regression**    
 
-![LDA](https://newonlinecourses.science.psu.edu/onlinecourses/sites/stat508/files/lesson09/image_01.gif)
+![LDA](https://newonlinecourses.science.psu.edu/onlinecourses/sites/stat508/files/lesson09/image_01.gif)  
+**K Nearest Neighbors**  
+![Knn](https://www.researchgate.net/profile/Zainab_Sultani/publication/328146770/figure/fig3/AS:679495715536897@1539015811173/kNN-classification-example.ppm)  
 **Here are the results:** 
 
  |               |  	Linear Discriminant Analysis | K Nearest Neighbors Classifier
