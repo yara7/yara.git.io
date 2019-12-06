@@ -1,3 +1,12 @@
-theme: jekyll-theme-cayman
+---
 title: welcome to Yara's Website!
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-cayman
 description: Feel free to bookmark this to keep an eye on my project updates.
