@@ -7,7 +7,7 @@
 
 **Diabetes prediction**   
 **Introduction**    
-Diabetes is considered as one of the deadliest and chronic diseases. Our project aims to predict diabetes based on many factors(features), like: age, family history, blood pressure, ... etc. You can check and download our dataset here.
+Diabetes is considered as one of the deadliest and chronic diseases. Our project aims to predict diabetes based on many factors(features), like: age, family history, blood pressure, ... etc. You can check and download our dataset . [here](https://www.kaggle.com/edubrq/diabetes).      .
 
 **Data Analysis**   
 By looking into our dataset, we found that we have some missing data, so we solved this by replacing these missing values in each attribute with the mean value of the data of this attribute   
@@ -23,10 +23,12 @@ When model is divided into train and validation, it means that the training part
     
     
 We used 2 methods: Linear Discriminant Analysis and K Nearest Neighbors, for prediction.  
-**Linear Discriminant & Logistic Regression**    
+**Linear Discriminant & Logistic Regression**  
+[Source](https://newonlinecourses.science.psu.edu/onlinecourses/sites/stat508/files/lesson09/image_01.gif).  
 
 ![LDA](https://newonlinecourses.science.psu.edu/onlinecourses/sites/stat508/files/lesson09/image_01.gif)  
 **K Nearest Neighbors**  
+[Source](https://www.researchgate.net/profile/Zainab_Sultani/publication/328146770/figure/fig3/AS:679495715536897@1539015811173/kNN-classification-example.ppm)    
 ![Knn](https://www.researchgate.net/profile/Zainab_Sultani/publication/328146770/figure/fig3/AS:679495715536897@1539015811173/kNN-classification-example.ppm)  
 **Here are the results:** 
 
