@@ -9,7 +9,7 @@
 **Introduction**    
 Diabetes is considered as one of the deadliest and chronic diseases. Our project aims to predict diabetes based on many factors(features), like: age, family history, blood pressure, ... etc. You can check and download our dataset . [here](https://www.kaggle.com/edubrq/diabetes).      .
 
-**Data Analysis**   
+**Data Analysis**     
 By looking into our dataset, we found that we have some missing data, so we solved this by replacing these missing values in each attribute with the mean value of the data of this attribute    
 |      | Pregnancies | Glucose | Blood pressure | Skin Thickness | Insuline | BMI |	Diabetes Pedigree Function |	Age
 |------------ | ------------- | ---------- | --------- | ------------ | --------- | -------- |  
