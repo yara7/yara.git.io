@@ -19,7 +19,7 @@ mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |
 
     
     
-We used 2 methods: Linear Discriminant Analysis and K Nearest Neighbors, for prediction.
+We used 2 methods: Linear Discriminant Analysis and K Nearest Neighbors, for prediction.  
 **Linear Discriminant & Logistic Regression**    
 
 ![LDA](https://newonlinecourses.science.psu.edu/onlinecourses/sites/stat508/files/lesson09/image_01.gif)  
