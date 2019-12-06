@@ -16,7 +16,10 @@ By looking into our dataset, we found that we have some missing data, so we solv
  |      | Pregnancies | Glucose | Blood pressure | Skin Thickness | Insuline | BMI |	Diabetes Pedigree Function |	Age   
 |------------ | ------------- | ---------- | --------- | ------------ | --------- | -------- | 
 mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |   
+**Methods**  
+When model is divided into train and validation, it means that the training part wasn't considered in the validation part, and similarly the validation part wasn't considered in the training part. That's why we used the cross-validation, so that the whole data will be considered in both training and validation. See following diagram show more explanation.  
 
+![cross](https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/74173849_470629050231734_1191953158075580416_n.png?_nc_cat=101&_nc_ohc=-H7DITJIJyYAQmrQiJ1wTiALhAA3qlCeP4FbEQXu3caEALooNKbYK5kUw&_nc_ht=scontent-hbe1-1.xx&oh=a005546569f41c5beb50ff99de9c2be1&oe=5E71C7F3)
     
     
 We used 2 methods: Linear Discriminant Analysis and K Nearest Neighbors, for prediction.  
