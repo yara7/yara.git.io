@@ -12,7 +12,7 @@ Diabetes is considered as one of the deadliest and chronic diseases. Our project
 **Data Analysis**   
 By looking into our dataset, we found that we have some missing data, so we solved this by replacing these missing values in each attribute with the mean value of the data of this attribute   
 
- |      | Pregnancies | Glucose | Blood pressure | Skin Thickness | Insuline | BMI |	Diabetes Pedigree Function |	Age    
+ |      | Pregnancies | Glucose | Blood pressure | Skin Thickness | Insuline | BMI |	Diabetes Pedigree Function |	Age 
 |------------ | ------------- | ---------- | --------- | ------------ | --------- | -------- |  
 mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |          
 **Methods**     
