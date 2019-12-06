@@ -6,7 +6,8 @@
  |               |  	Linear Discriminant Analysis | K Nearest Neighbors Classifier
 
 |------------ | ------------- |
-Accuracy | 	0.7708 | 	0.77 | 
+Accuracy | 	0.7708 | 	0.77 |   
+
 
 
 
