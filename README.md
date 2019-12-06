@@ -25,5 +25,6 @@ By looking into our dataset, we found that we have some missing data, so we solv
 mean | 13.38 | 	121.86 | 	72.75 | 	26.6 | 	118.66 | 	32.45 | 	0.74 | 	33.24 |  
 
     
-![cross](https://github.com/yara7/yara.git.io/blob/master/cross.png)
+![Philadelphia's Magic Gardens. This place was so cool!]( https://www.researchgate.net/profile/Zainab_Sultani/publication/328146770/figure/fig3/AS:679495715536897@1539015811173/kNN-classification-example.ppm"Philadelphia's Magic Gardens")
+
 
