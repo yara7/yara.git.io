@@ -2,7 +2,7 @@
 <yarametwally32@gmail.com>  
 <https://www.facebook.com/yara.metwally.146>    
  
-[Blog]([here](https://yara7.github.io/blog.git.io/)
+[Blog](https://yara7.github.io/blog.git.io/)
 
 
 **Diabetes prediction**   
