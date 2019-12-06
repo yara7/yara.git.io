@@ -3,7 +3,7 @@
 <https://www.facebook.com/yara.metwally.146>    
 **Blog**
 
- |      |  	Linear Discriminant Analysis | K Nearest Neighbors Classifier
+ |               |  	Linear Discriminant Analysis | K Nearest Neighbors Classifier
 
 |------------ | ------------- |
 Accuracy | 	0.7708 | 	0.77 | 
